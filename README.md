@@ -1,2 +1,2 @@
-# Tower-of-Pandem
-A tower defense game
+# Tower of Pandem
+Cookie Clicker
